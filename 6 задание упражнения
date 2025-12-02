@@ -1,0 +1,9 @@
+chislo = int(input())
+if chislo < 0:
+    chislo *=-1
+    print (chislo)
+elif chislo == 0:
+    chislo = chislo ** 0
+    print(chislo)
+else:
+    print(chislo)
