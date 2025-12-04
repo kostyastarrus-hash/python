@@ -1,0 +1,23 @@
+
+
+Stroka = (str(input))
+if in Stroka "." and ",":
+    print(true)
+   else:
+        print(false)
+
+
+
+
+
+
+
+#3
+chislo_1 = int(input())
+chislo_2 = int(input())
+if chislo_1 and chislo_2 % 3 = 0:
+    print(true)
+if chislo_1 or chislo_2 % 3 = 0:
+    print("Одно число делится на три")
+    else:
+        print(false)
